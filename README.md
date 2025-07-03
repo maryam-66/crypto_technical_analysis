@@ -10,5 +10,5 @@
 ## اجرا:
 
 ```bash
-pip install -r requirements.txt
-python main.py
+
+python ai_finance_app.py
